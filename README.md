@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kingpiz
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning termux
-- 💞️ I’m looking to collaborate on hacking
+- 👀 I’m interested in learning hacking
+- 🌱 I’m currently learning about Hacking
+- 💞️ I’m interested in learning more about Hacking
 - 📫 How to reach me kingpiz0z@gmail.com
 
 <!---
